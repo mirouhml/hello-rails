@@ -1,30 +1,24 @@
-# Project title
+# README
 
-project description ...
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Getting Started
+Things you may want to cover:
 
-- Run `bundle install` to get the dependencies.
-- Run `ruby ...`
+* Ruby version
 
-## About me
+* System dependencies
 
-👤 **Soufiane Boursen**
+* Configuration
 
-- GitHub: [@Sboursen](https://github.com/Sboursen)
-- Twitter: [@sboursen_dev](https://twitter.com/sboursen_dev)
-- LinkedIn: [@sboursen](https://linkedin.com/in/sboursen)
+* Database creation
 
-## 🤝 Contributing
+* Database initialization
 
-Contributions, issues, and feature requests are welcome!
+* How to run the test suite
 
-Feel free to check the [issues page](../../issues/).
+* Services (job queues, cache servers, search engines, etc.)
 
-## Show your support
+* Deployment instructions
 
-Give a ⭐️ if you like this project!
-
-## License
-
-This is a [MIT](./LICENSE) licensed project.
+* ...
